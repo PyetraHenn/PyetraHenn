@@ -10,7 +10,7 @@ Olá, meu nome é Pyetra Henn e sou uma desenvolvedora Front-End apaixonada por 
 
 ## O que você encontrará neste repositório? 
 
-Este é o lugar onde você pode encontrar todos os meus projetos de estudo. Sempre busco me manter atualizado e, com isso, crio novos repositórios à medida que adquiro novos conhecimentos. Sinta-se à vontade para explorar e clonar meus projetos. Espero que eles possam te ajudar a aprender algo novo e interessante.
+Este é o lugar onde você pode encontrar todos os meus projetos de estudo. Sempre busco me manter atualizada e, com isso, crio novos repositórios à medida que adquiro novos conhecimentos. Sinta-se à vontade para explorar e clonar meus projetos. Espero que eles possam te ajudar a aprender algo novo e interessante.
 
 ## Contato 
 https://www.linkedin.com/in/py%C3%AAtra-henn-8565031a3/
